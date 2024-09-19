@@ -35,7 +35,7 @@ body{
 }
 
 .container img:hover{
-   transform: perspective(800px) rotateY(0deg);
+   transform: perspective(800px) rotateY(180deg);
    opacity: 1;
    cursor: cell;
 }
